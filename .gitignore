@@ -1,0 +1,22 @@
+# Compiled Java classes
+*.class
+out/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Task save file (runtime generated)
+tasks.txt
+
+# macOS
+.DS_Store
